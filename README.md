@@ -6,4 +6,4 @@
 
 <p align=center>- 📫 Contact me: lipveiga@gmail.com </p>
 
-<h2>My Skills</h2>
+<h2 align=center>My Skills</h2>
