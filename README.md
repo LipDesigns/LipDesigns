@@ -4,7 +4,7 @@
 
 <p align=center>-🌱 I’m currently learning ... </p>
 
-<p align=center; text-decoration=underline>-📫 Contact me: lipveiga@gmail.com </p>
+<p align=center>-📫 Contact me: lipveiga@gmail.com </p>
 
 <h2 align=center>My Skills</h2>
 
