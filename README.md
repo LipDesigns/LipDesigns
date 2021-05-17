@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 <b>I’m currently learning ...</b>
 
 - 📫 Contact me: lipveiga@gmail.com 
