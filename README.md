@@ -9,6 +9,6 @@
 <h2 align=center>My Skills</h2>
 
 <div>
-        <img src="">
-        <img src="">
+        <img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
+        <img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
 </div>
