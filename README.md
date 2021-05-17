@@ -2,6 +2,6 @@
 
 <h1 align=center ; text-decoration=underline ;>Hi There 👋</h1>
 
-- 🌱 I’m currently learning ...
+<p align=center;>- 🌱 I’m currently learning ... </p>
 
-- 📫 Contact me: lipveiga@gmail.com 
+<p align=center;>- 📫 Contact me: lipveiga@gmail.com </p>
