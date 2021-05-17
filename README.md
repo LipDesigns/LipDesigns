@@ -1,4 +1,4 @@
-![Cover](https://github.com/LipDesigns/LipDesigns/tree/main/img)
+![Cover](https://github.com/LipDesigns/LipDesigns/tree/main/img/285823f61c7ed73.jpg)
 ### Hi there 👋
 
 <!--
