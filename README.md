@@ -8,7 +8,7 @@
 
 <h2 align=center>My Skills</h2>
 
-<div dipslay=flex; flex-direction=column>
+<div dipslay=flex, flex-direction=column>
         <img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
         <img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
 </div>
