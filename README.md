@@ -1,6 +1,6 @@
 ![Cover](https://github.com/LipDesigns/LipDesigns/blob/main/img/285823f61c7ed73.jpg)
 
-<u>### Hi there</u> 👋
+<h1 align=center>Hi there</h1> 👋
 
 - 🌱 I’m currently learning ...
 
