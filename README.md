@@ -8,4 +8,7 @@
 
 <h2 align=center>My Skills</h2>
 
-<img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
+<div>
+        <img src="">
+        <img src="">
+</div>
