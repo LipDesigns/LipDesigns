@@ -5,3 +5,5 @@
 <p align=center>- 🌱 I’m currently learning ... </p>
 
 <p align=center>- 📫 Contact me: lipveiga@gmail.com </p>
+
+<h2>My Skills</h2>
