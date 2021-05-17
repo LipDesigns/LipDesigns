@@ -7,3 +7,5 @@
 <p align=center; text-decoration=underline>-📫 Contact me: lipveiga@gmail.com </p>
 
 <h2 align=center>My Skills</h2>
+
+<img src="">
