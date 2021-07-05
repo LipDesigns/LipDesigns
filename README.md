@@ -12,4 +12,7 @@
         <img src="img/html5.png">
         <img src="img/css-3.png">
         <img src="img/javascript (1).png">
+        <img src="img/php.png">
+        <img src="img/mail.png">
+        <img src="img/wordpress.png">
 </div>
