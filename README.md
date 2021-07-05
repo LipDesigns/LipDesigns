@@ -6,6 +6,8 @@
 
 <p align=center>-📫 Contact me: lipveiga@gmail.com </p>
 
+<p align=center>-📫 My portfolio: https://www.lip-designs.com </p>
+
 <h2 align=center>My Skills</h2>
 
 <div align=center>
@@ -16,5 +18,3 @@
         <img src="img/mjml.png">
         <img src="img/wordpress.png">
 </div>
-
-<h2>Link to my portfolio</h2>
