@@ -16,3 +16,5 @@
         <img src="img/mjml.png">
         <img src="img/wordpress.png">
 </div>
+
+<h2>Link to my portfolio</h2>
