@@ -8,7 +8,7 @@
 
 <h2 align=center>My Skills</h2>
 
-<div direction=column, align=center>
+<div align=center>
         <img src="img/html5.png">
         <img src="img/css-3.png">
         <img src="img/javascript (1).png">
