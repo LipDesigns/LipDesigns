@@ -12,4 +12,5 @@
         <img src="img/html5.png">
         <img src="img/css-3.png">
         <img src="img/javascript.png">
+        <img src="img/javascript (1).png">
 </div>
