@@ -10,5 +10,5 @@
 
 <div dipslay=flex, flex-direction=column>
         <img src="img/html5.png">
-        <img src="https://github.com/LipDesigns/LipDesigns/blob/main/img/html-5.png">
+        <img src="img/css-3.png">
 </div>
